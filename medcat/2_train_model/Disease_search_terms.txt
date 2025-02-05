@@ -1,0 +1,17 @@
+Disease terms:
+Cardiac Amyloidosis
+Sarcoidosis
+Fabry Disease
+Danon Disease
+Pompe Disease
+Friedreich’s Ataxia
+Myotonic Dystrophy
+Noonan Syndrome
+Aortic Stenosis
+Hypertensive Heart Disease
+Athlete’s Heart
+Hypertrophic cardiomyopathy
+LEOPARD Syndrome (-> Very Rare)
+Costello Syndrome (-> Very Rare)
+PRKAG2 Disease (-> Very Rare)
+Mitochondrial Disorders (-> probably wouldn’t include it)
